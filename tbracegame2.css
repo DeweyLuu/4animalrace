@@ -1,0 +1,98 @@
+body {
+	background-image: url(http://36.media.tumblr.com/2387017f607b2653291648161a373450/tumblr_mfj20r62w41rirnzso1_400.jpg);
+}
+h1 {
+	text-align: center;
+	color: #009900;
+	font-size: 6em;
+	font-style: italic;
+}
+#start {
+	text-align: center;
+}
+#begin {
+	font-size: 2em;
+	background-color: #3399ff;
+	font-style: italic;
+}
+.animalPix {
+	text-align: center;
+}
+.animals {
+	border: 2px solid blue;
+	height: 0em;
+	width: 0em;
+	padding-left: 2.5em;
+	padding-right: 2.5em;
+	border-radius: 15px;
+	background-color: #ACF7B6;
+}
+button {
+	border-radius: 15px;
+}
+.newAnimal {
+	background-color: red;
+}
+h2 {
+	font-size: 2em;
+	margin-top: 1em;
+}
+#chooser {
+	text-decoration: underline;
+}
+table {
+	width: 30%;
+	margin-bottom: 3em;
+	margin-left: auto;
+	margin-right: auto;
+}
+table tr td {
+	border-bottom: 2px dashed blue;
+	text-align: center;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+#animalNames {
+	font-size: 2em;
+	font-weight: bold;
+}
+.attribute {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+#animalInfo {
+	border: 15px solid yellow;
+	text-align: center;
+}
+#youPicked {
+	text-align: center;
+	font-size: 2em;
+}
+#results {
+	font-size: 2em;
+	text-align: center;
+	display: none;
+}
+#winning {
+	display: none;
+	text-align: center;
+}
+#clicker {
+	background-color: #F7C63F;
+	font-size: 2em;
+}
+#results ul {
+	text-align: left;
+	font-size: 1em;
+}
+#row {
+	display: inline;
+}
+#winwin {
+	font-size: 1em;
+}
+#winner {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 1em;
+}
